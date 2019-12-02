@@ -168,3 +168,4 @@ centos 7 防火墙
 
 查看tomcat下面的日志
  	tail -300 ／logs／catalina.out
+	i wanna change.
