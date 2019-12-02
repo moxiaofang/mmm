@@ -168,5 +168,9 @@ centos 7 防火墙
 
 查看tomcat下面的日志
  	tail -300 ／logs／catalina.out
+<<<<<<< HEAD
 	i wanna change.
 	me too
+=======
+	i wanna change.and you?
+>>>>>>> 506f739423e45211ace6a957b53abff7fad2fe73
